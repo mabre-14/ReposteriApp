@@ -1,2 +1,3 @@
 # ReposteriaApp
-Proyecto final de la asignatura Administrador de Servidores con el Ing. Starling Germosen  Reynoso, de la sección 0908 de la Universidad Dominicana O&M
+En el link que se encuntra debajo podra tener acceso a una presentacion ejecutiva del poryecto en PowerPoint.
+https://www.slideshare.net/MARINOA2/presentacin-del-proyecto-final-reposteriapp
